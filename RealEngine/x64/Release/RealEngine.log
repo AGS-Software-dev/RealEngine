@@ -1,0 +1,4 @@
+﻿  Application.cpp
+  Log.cpp
+Application.obj : error LNK2001: unresolved external symbol "public: void __cdecl Log::Log::info(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?info@Log@1@QEAAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+C:\Users\dylew\Desktop\RealEngine\x64\Release\RealEngine.exe : fatal error LNK1120: 1 unresolved externals
