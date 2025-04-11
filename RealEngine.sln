@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RealEngine", "RealEngine\RealEngine.vcxproj", "{D2363467-4DA3-4E71-8176-3009792EF220}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GLFW", "GLFW\GLFW.vcxproj", "{35031A34-15F0-420B-BD2C-732770F03E65}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GLAD", "GLAD\GLAD.vcxproj", "{867E5E4D-D917-42A6-93A7-40B66E86290C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2363467-4DA3-4E71-8176-3009792EF220}.Debug|x64.ActiveCfg = Debug|x64
+		{D2363467-4DA3-4E71-8176-3009792EF220}.Debug|x64.Build.0 = Debug|x64
+		{D2363467-4DA3-4E71-8176-3009792EF220}.Release|x64.ActiveCfg = Release|x64
+		{D2363467-4DA3-4E71-8176-3009792EF220}.Release|x64.Build.0 = Release|x64
+		{35031A34-15F0-420B-BD2C-732770F03E65}.Debug|x64.ActiveCfg = Debug|x64
+		{35031A34-15F0-420B-BD2C-732770F03E65}.Debug|x64.Build.0 = Debug|x64
+		{35031A34-15F0-420B-BD2C-732770F03E65}.Release|x64.ActiveCfg = Release|x64
+		{35031A34-15F0-420B-BD2C-732770F03E65}.Release|x64.Build.0 = Release|x64
+		{867E5E4D-D917-42A6-93A7-40B66E86290C}.Debug|x64.ActiveCfg = Debug|x64
+		{867E5E4D-D917-42A6-93A7-40B66E86290C}.Debug|x64.Build.0 = Debug|x64
+		{867E5E4D-D917-42A6-93A7-40B66E86290C}.Release|x64.ActiveCfg = Release|x64
+		{867E5E4D-D917-42A6-93A7-40B66E86290C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F56DC94-8453-48E2-B2FF-63DF6B60DD22}
+	EndGlobalSection
+EndGlobal
