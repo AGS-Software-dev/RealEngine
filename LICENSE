@@ -1,21 +1,55 @@
-MIT License
-
+# RealEngine License (v1.0)
 Copyright (c) 2025 AGS Software
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person or organization using this software to develop games or applications, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+---
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## 1. Free Usage
+You may use, modify, and distribute this engine freely for personal, educational, or commercial projects.
+
+---
+
+## 2. Revenue Sharing
+If your **gross revenue from any single product** developed with RealEngine exceeds **$100,000 USD**, you agree to pay **AGS Software a 2% royalty** on revenue exceeding $100,000.
+
+### 2.1 Excluded Income
+The following **do NOT count as revenue** for royalty purposes:
+- Crowdfunding (e.g. Kickstarter, Indiegogo) unless directly tied to delivery of a copy of the product
+- Community support or subscriptions (e.g. Patreon, Ko-fi) not tied to guaranteed delivery of the product
+- Donations, grants, or public funding not tied to commercial sales
+- Revenue unrelated to the product (e.g. merchandise, consulting)
+
+### 2.2 Included Revenue
+The 2% royalty applies only to:
+- Direct game or application sales
+- In-app purchases
+- Paid downloadable content (DLC)
+- Commercial licenses or subscriptions to the product
+
+---
+
+## 3. Payment Terms
+Royalties must be reported and paid **monthly**, at the end of each calendar month, **once your product surpasses $100,000 in gross revenue**.
+
+---
+
+## 4. Reporting
+You are responsible for tracking and reporting revenue honestly. AGS Software may request records for audit purposes.
+
+---
+
+## 5. Future License Changes
+AGS Software reserves the right to update or modify this license at any time.
+
+> **However, any project developed using a version of RealEngine released under this license will continue to follow the terms of this license, even if the license changes in the future.**  
+This means games made with current or earlier versions of RealEngine are **grandfathered** and protected from future license changes.
+
+---
+
+## 6. No Warranty
+This software is provided “as is,” without warranty of any kind, express or implied. AGS Software is not liable for any damages arising from the use of this software.
+
+---
+
+**Contact AGS Software** for royalty payment instructions or licensing support.
