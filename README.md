@@ -14,7 +14,7 @@ All game logic is written directly in C++ using the core engine source.
 - Early core systems architecture
 
 ### 🔧 Building
-Use CMake or open `RealEngine.sln` in Visual Studio.  
+Open `RealEngine.sln` in Visual Studio.  
 Make sure `glad` and `imgui` are included.
 
 ### 💸 License
